@@ -2,9 +2,9 @@
 (AI-Assisted | Prompt-Driven | Data Science Project)
 
 Organization: Oasis Infobyte
-Task: Task 2 – Unemployment Analysis
+Task: Unemployment Analysis
 Dataset Source: Kaggle
-🔗 https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
+🔗Link:  https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 
 🧠 Project Overview
 
